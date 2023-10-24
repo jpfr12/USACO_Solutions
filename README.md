@@ -2,7 +2,7 @@
 
 USACO Bronze and Silver solutions
 
-* I will store mainly Branze and Silver Divisions of USA Computing Olympiad.
+* I will store mainly Bronze and Silver Divisions of USA Computing Olympiad.
 
 ---
 
